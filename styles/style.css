@@ -145,7 +145,7 @@ grid-template-rows: 750px 1fr;
   to {opacity: 1}
 }
 .coupleImg {
-    width: 70%;
+    width: 100%;
     border: 10px solid #B57EDC;
     box-shadow: 5px 5px 20px black;
 }
